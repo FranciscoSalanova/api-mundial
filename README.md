@@ -1,0 +1,1 @@
+https://github.com/fullstack-hy2020/misc/blob/master/diaryentries.json
